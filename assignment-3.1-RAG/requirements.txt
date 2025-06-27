@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+faiss-cpu
+requests
+beautifulsoup4
+tqdm
+pandas
+scikit-learn
+jupyter 

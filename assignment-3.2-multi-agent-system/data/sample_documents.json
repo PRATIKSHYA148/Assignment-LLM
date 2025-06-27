@@ -1,0 +1,34 @@
+[
+  {
+    "id": "doc1",
+    "title": "The Future of Artificial Intelligence in Healthcare",
+    "content": "Artificial Intelligence (AI) is revolutionizing healthcare by enabling more accurate diagnoses, personalized treatment plans, and efficient drug discovery. Machine learning algorithms can analyze vast amounts of medical data to identify patterns that human doctors might miss. AI-powered diagnostic tools are already being used to detect diseases like cancer, diabetes, and heart conditions with remarkable accuracy. The integration of AI in healthcare systems promises to reduce costs while improving patient outcomes. However, challenges remain in terms of data privacy, algorithm bias, and the need for regulatory frameworks to ensure safe implementation.",
+    "category": "technology",
+    "author": "Dr. Sarah Johnson",
+    "date": "2024-01-15"
+  },
+  {
+    "id": "doc2", 
+    "title": "Climate Change and Renewable Energy Solutions",
+    "content": "Climate change represents one of the most pressing challenges of our time, requiring immediate action to reduce greenhouse gas emissions. Renewable energy sources such as solar, wind, and hydroelectric power offer sustainable alternatives to fossil fuels. Recent technological advances have made renewable energy more cost-effective and efficient than ever before. Countries worldwide are investing heavily in renewable infrastructure, with many setting ambitious targets for carbon neutrality. The transition to clean energy not only helps combat climate change but also creates new job opportunities and drives economic growth in emerging green technologies.",
+    "category": "environment",
+    "author": "Dr. Michael Chen",
+    "date": "2024-02-20"
+  },
+  {
+    "id": "doc3",
+    "title": "The Impact of Remote Work on Productivity and Company Culture",
+    "content": "The widespread adoption of remote work following the COVID-19 pandemic has fundamentally changed how businesses operate. Studies show mixed results regarding productivity, with some employees reporting increased focus and efficiency while others struggle with isolation and communication challenges. Company culture has had to evolve to maintain team cohesion and employee engagement in virtual environments. Many organizations are now adopting hybrid work models that combine the flexibility of remote work with the collaboration benefits of in-person interaction. The long-term implications for workplace design, employee satisfaction, and business operations continue to unfold.",
+    "category": "business",
+    "author": "Lisa Rodriguez",
+    "date": "2024-03-10"
+  },
+  {
+    "id": "doc4",
+    "title": "Advances in Quantum Computing and Its Applications",
+    "content": "Quantum computing represents a paradigm shift in computational capability, promising to solve complex problems that are intractable for classical computers. Recent breakthroughs in quantum hardware and error correction have brought practical quantum applications closer to reality. Industries such as pharmaceuticals, finance, and cybersecurity stand to benefit significantly from quantum computing's ability to process vast amounts of data and perform complex calculations. Quantum supremacy demonstrations have shown the potential for exponential speedups in specific tasks. However, challenges remain in scaling quantum systems and developing quantum algorithms for real-world applications.",
+    "category": "technology",
+    "author": "Prof. David Kim",
+    "date": "2024-04-05"
+  }
+]
